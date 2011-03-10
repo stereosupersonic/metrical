@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = []
   s.executables      = ["metrical"]
 
-  s.add_dependency "metric_fu", "~> 2.0.1"
+  s.add_dependency "metric_fu", "~> 2.1.1"
   s.add_dependency "activesupport"
 end
